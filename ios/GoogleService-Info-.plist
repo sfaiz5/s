@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114856754788-7pphn5s3694a6t933l1q8qb6b3keehgt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114856754788-7pphn5s3694a6t933l1q8qb6b3keehgt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0uNLQLXUcs2ICnmluqPaWCPgGLvUvg2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114856754788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.creationdriven.createSocial</string>
+	<key>PROJECT_ID</key>
+	<string>create-social-4d07d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>create-social-4d07d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114856754788:ios:3d47aaa299d43bfbeb6971</string>
+	<key>DATABASE_URL</key>
+	<string>https://create-social-4d07d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

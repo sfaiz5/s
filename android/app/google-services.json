@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "114856754788",
+    "firebase_url": "https://create-social-4d07d-default-rtdb.firebaseio.com",
+    "project_id": "create-social-4d07d",
+    "storage_bucket": "create-social-4d07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114856754788:android:fe0eb86f0fc28595eb6971",
+        "android_client_info": {
+          "package_name": "com.creationdriven.create_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114856754788-qko72oelnjikao5m2efikgg8v12venfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95oS7N_kfcVEkXMiupJK1qKnCkpWwQLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114856754788-qko72oelnjikao5m2efikgg8v12venfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114856754788-13bhled7eapvokv7ug8iuce82hedse5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.createSocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114856754788:android:1a348d52601e370eeb6971",
+        "android_client_info": {
+          "package_name": "com.example.createSocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114856754788-qko72oelnjikao5m2efikgg8v12venfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95oS7N_kfcVEkXMiupJK1qKnCkpWwQLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114856754788-qko72oelnjikao5m2efikgg8v12venfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114856754788-13bhled7eapvokv7ug8iuce82hedse5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.createSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
